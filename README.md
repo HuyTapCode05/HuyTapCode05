@@ -44,12 +44,6 @@
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HuyTapCode05&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyTapCode05&layout=compact&theme=radical" />
-</p>
-
 ### 📈 Activity Graph
 ![HuyTapCode05's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HuyTapCode05&theme=react-dark)
 
