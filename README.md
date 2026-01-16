@@ -32,15 +32,6 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Analysis
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HuyTapCode05&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyTapCode05&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ### 📊 Activity Overview
