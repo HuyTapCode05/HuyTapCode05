@@ -54,3 +54,8 @@
 - 📧 **Email**: huy632124@gmail.com
 - 🌐 **Facebook**: [facebook.com/nghuysc1](https://facebook.com/nghuysc1)
 - 📍 **Location**: Ho Chi Minh City, Vietnam
+
+<p align="left">
+  <img src="https://img.shields.io/badge/@HuyDev-Active-brightgreen?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/@GDU_Student-Verified-blue?style=flat-square&logo=google-scholar" />
+</p>
