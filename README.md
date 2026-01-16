@@ -56,7 +56,7 @@
 ---
 
 ### 📫 Connect with me:
-- 📞 **Phone**: 0585565175
-- 📧 **Email**: huyngph2005@gmail.com
+- 📞 **Phone**: 0708747349
+- 📧 **Email**: huy632124@gmail.com
 - 🌐 **Facebook**: [facebook.com/nghuysc1](https://facebook.com/nghuysc1)
 - 📍 **Location**: Ho Chi Minh City, Vietnam
