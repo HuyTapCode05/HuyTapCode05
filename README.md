@@ -54,4 +54,3 @@
 - 📧 **Email**: huy632124@gmail.com
 - 🌐 **Facebook**: [facebook.com/nghuysc1](https://facebook.com/nghuysc1)
 - 📍 **Location**: Ho Chi Minh City, Vietnam
-
