@@ -55,7 +55,3 @@
 - 🌐 **Facebook**: [facebook.com/nghuysc1](https://facebook.com/nghuysc1)
 - 📍 **Location**: Ho Chi Minh City, Vietnam
 
-### 📊 Activity Overview
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuyTapCode05&theme=radical" width="100%" />
-</p>
