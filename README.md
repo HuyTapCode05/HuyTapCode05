@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm HuyDev 👋</h1>
-  <p><i>"Engineering scalable solutions and automating the complex."</i></p>
+  <p><i>"Engineer scalable solutions and automating the complex."</i></p>
   
   <img src="https://komarev.com/ghpvc/?username=HuyTapCode05&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </div>
