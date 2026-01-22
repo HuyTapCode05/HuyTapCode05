@@ -1,50 +1,81 @@
 <div align="center">
 
-# HuyDev
-**Software Engineer (Backend) • Node.js • Java**
+<h1>Hi, I'm Huy 👋</h1>
 
-I build scalable backend systems, real-time features, and automation tooling.
+<b>Backend Engineer • Node.js • Java</b>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=HuyTapCode05&label=Profile%20views&color=00B14F&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Backend%20roles-00B14F?style=flat" />
-</p>
+I build reliable backend services, real-time features and tools that actually ship.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=HuyTapCode05&label=Profile%20views&color=00B14F&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/badge/Open%20to-Backend%20roles-00B14F?style=flat" />
+<img src="https://img.shields.io/badge/Focus-Clean%20Architecture-00B14F?style=flat" />
 
 </div>
 
 ---
 
-## About Me
-- Backend engineer focused on **Node.js** & **Java** with a preference for **clean architecture** and **performance**
-- Experienced with **real-time systems** (Socket.IO/WebRTC patterns) and building **automation** (bots / workflow tools)
-- I care about **maintainability**, **observability**, and **shipping reliably**
+## 👨‍💻 About Me
+
+- Backend engineer, focusing on **Node.js**, **Express**, **Java** and **real-time systems**
+- Experienced with **Socket.IO**, **WebRTC patterns**, **JWT auth**, and RESTful APIs
+- Comfortable working with **relational** (SQLite, MySQL, SQL Server) and **NoSQL** (MongoDB) databases
+- I care about **clean architecture**, **performance**, and **maintainable code**
 
 ---
 
-## What I’m working on
-- Building a full-stack chat app: **VTalk** (Realtime chat + calls + admin)
-- Improving UI/UX consistency with **theme system** (light/dark) and scalable components
+## 🚀 What I’m Working On
+
+- **VTalk** – full-stack chat application  
+  Real-time messaging, voice/video calls, admin features, and mobile app with theming (light/dark)
+- Improving **Dev Experience** (DX): better structure, reusable components, and consistent theme system
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
+
+**Languages & Core**
+- JavaScript, TypeScript, Java
+
 **Backend**
-- Node.js, Express, Socket.IO
-- Java (Spring ecosystem)
+- Node.js, Express.js, Socket.IO
+- Authentication: JWT, bcrypt
+- File handling: Multer
+- Email: Nodemailer
 
 **Frontend / Mobile**
-- JavaScript, TypeScript
-- React Native / Expo
+- React Native, Expo
+- React Navigation
+- Web support (Expo web)
 
 **Databases**
 - SQLite, MySQL, SQL Server, MongoDB
 
-**Tools**
-- Git, REST APIs, JWT, CI-friendly workflows
+**Tools & Others**
+- Git & GitHub
+- REST APIs
+- Basic CI/CD workflows
 
 ---
 
-## GitHub Stats
+## 📌 Featured Project
+
+### VTalk – Realtime Chat & Calling Platform
+- **Description**: Chat app with private/group conversations, real-time messaging, voice/video calls, admin tools and modern mobile UI.
+- **Tech**: `Node.js`, `Express`, `Socket.IO`, `SQLite`, `JWT`, `React Native`, `Expo`
+- **Highlights**:
+  - Real-time messaging & online status
+  - Voice/video call support patterns with WebRTC
+  - Admin role & protected routes
+  - Theming system: **light/dark**, consistent green primary color `#00B14F`
+
+*(Bạn có thể bổ sung thêm 2–3 project khác theo format trên nếu muốn.)*
+
+---
+
+## 📊 GitHub Overview
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuyTapCode05&theme=github_dark" width="100%" />
 </p>
@@ -60,14 +91,12 @@ I build scalable backend systems, real-time features, and automation tooling.
 
 ---
 
-## Featured Projects
-- **VTalk** — Realtime chat + voice/video + admin dashboard  
-  `Node.js • Socket.IO • SQLite • React Native • Expo`
----
+## 📫 Contact
 
-## Contact
 <div align="center">
-  <a href="https://facebook.com/nghuysc1">Facebook</a> •
-  <a href="mailto:huy632124@gmail.com">Email</a> •
-  <a href="https://huydevlor.id.vn">Portfolio</a>
+
+<a href="mailto:huy632124@gmail.com"><b>Email</b></a> •
+<a href="https://facebook.com/nghuysc1"><b>Facebook</b></a> •
+<a href="https://huydevlor.id.vn"><b>Portfolio</b></a>
+
 </div>
