@@ -25,6 +25,21 @@ I build reliable backend services, real-time features and tools that actually sh
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=HuyTapCode05&show_icons=true&theme=github_dark&hide_title=true" 
+    height="150"
+/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyTapCode05&layout=compact&theme=github_dark&hide_title=true" 
+    height="150"
+/>
+</p>
+
+---
+
 ## 🚀 What I’m Working On
 
 - **VTalk** – full-stack chat application  
@@ -69,25 +84,6 @@ I build reliable backend services, real-time features and tools that actually sh
   - Voice/video call support patterns with WebRTC
   - Admin role & protected routes
   - Theming system: **light/dark**, consistent green primary color `#00B14F`
-
-*(Bạn có thể bổ sung thêm 2–3 project khác theo format trên nếu muốn.)*
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuyTapCode05&theme=github_dark" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyTapCode05&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuyTapCode05&theme=github_dark" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuyTapCode05&theme=github-compact" width="100%" />
-</p>
 
 ---
 
