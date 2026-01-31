@@ -6,7 +6,10 @@
 
 <br/>
 
-
+<img src="https://komarev.com/ghpvc/?username=HuyTapCode05&label=views&color=00B14F&style=flat-square" />
+<img src="https://img.shields.io/badge/backend-node.js-00B14F?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/language-java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/realtime-socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
 
 <br/><br/>
 
