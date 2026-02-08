@@ -18,15 +18,23 @@
 
 </div>
 
-### 🛠️ Tech Stack & 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,js,ts,mongodb,mysql,sqlite,git,postman,docker,linux&perline=6" />
-</p>
+### 🏆 Performance & GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HuyTapCode05&show_icons=true&theme=tokyonight&hide_border=true&title_color=00B14F&icon_color=00B14F&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyTapCode05&layout=compact&theme=tokyonight&hide_border=true&title_color=00B14F&text_color=ffffff&bg_color=0d1117" width="39%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuyTapCode05&theme=tokyonight&hide_border=true&fire=00B14F&ring=00B14F&sideNums=00B14F&stroke=00B14F&currStreakLabel=00B14F" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyTapCode05&layout=compact&theme=tokyonight&hide_border=true&title_color=00B14F&text_color=ffffff&bg_color=0d1117" width="60%" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,js,ts,mongodb,mysql,sqlite,git,postman,docker,linux,github,visualstudio,vscode&perline=8" />
 </p>
 
 ---
