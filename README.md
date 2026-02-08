@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 HuyTapCode05 | HuyGPT
-**Backend Engineer Intern · Software Engineering Student**
+**Backend Engineer · Software Engineer**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B14F&center=true&vCenter=true&width=435&lines=Node.js+Developer;Java+Lover;Realtime+Solutions;Clean+Code+Advocate)](https://git.io/typing-svg)
 
