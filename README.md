@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 HuyTapCode05 | HuyGPT
-**Backend Engineer · Software Engineer**
+**Backend Engineer · Software Engineering Student @ GDU**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B14F&center=true&vCenter=true&width=435&lines=Building+Scalable+Backends;Real-time+System+Architect;Node.js+%26+Java+Expert;Clean+Architecture+Lover)](https://git.io/typing-svg)
 
@@ -18,18 +18,16 @@
 
 </div>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛠️ Tech Stack</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,java,js,ts,mongodb,mysql,sqlite,git,postman,docker,linux&perline=4" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 GitHub Stats</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=HuyTapCode05&show_icons=true&theme=tokyonight&hide_border=true&title_color=00B14F&icon_color=00B14F&text_color=ffffff&bg_color=00000000" width="100%"/>
-    </td>
-  </tr>
-</table>
+### 🛠️ Tech Stack & 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,js,ts,mongodb,mysql,sqlite,git,postman,docker,linux&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HuyTapCode05&show_icons=true&theme=tokyonight&hide_border=true&title_color=00B14F&icon_color=00B14F&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyTapCode05&layout=compact&theme=tokyonight&hide_border=true&title_color=00B14F&text_color=ffffff&bg_color=0d1117" width="39%" />
+</p>
 
 ---
 
@@ -41,13 +39,6 @@
 | **Real-time** | Socket.IO, WebRTC Architecture |
 | **Databases** | MongoDB (NoSQL), MySQL/SQLite (SQL), Query Optimization |
 | **DevOps & Tools** | Git, Docker (Basic), Postman, Linux Command Line |
-
----
-
-### 📂 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyTapCode05&layout=compact&theme=tokyonight&hide_border=true&title_color=00B14F&text_color=ffffff&bg_color=00000000" width="60%" />
-</p>
 
 ---
 
