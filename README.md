@@ -3,7 +3,7 @@
 # 🚀 HuyTapCode05 | HuyGPT
 **Backend Engineer · Software Engineer**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B14F&center=true&vCenter=true&width=435&lines=Node.js+Developer;Java+Lover;Realtime+Solutions;Clean+Code+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B14F&center=true&vCenter=true&width=435&lines=Building+Scalable+Backends;Real-time+System+Architect;Node.js+%26+Java+Expert;Clean+Architecture+Lover)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HuyTapCode05&label=Views&color=00B14F&style=flat-square" />
@@ -13,8 +13,8 @@
 
 ---
 
-### ⚡ About Me
-*"I build reliable backend services, real-time features, and clean APIs."*
+### ⚡ Professional Overview
+*"Focus on building high-availability backend services, optimizing database performance, and designing seamless real-time experiences."*
 
 </div>
 
@@ -22,7 +22,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🛠️ Tech Stack</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,java,js,ts,mongodb,mysql,sqlite,react,git,html,css,tailwind,postman,vscode&perline=5" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,js,ts,mongodb,mysql,sqlite,git,postman,docker,linux&perline=4" />
     </td>
     <td width="50%" valign="top">
       <h4>📊 GitHub Stats</h4>
@@ -33,30 +33,18 @@
 
 ---
 
-### 🌟 Featured Project: **VTalk**
-> **Realtime Chat & Calling Platform**
+### 🧠 Core Expertise
 
-<div align="left">
-<table>
-  <tr>
-    <td>
-      <b>Core Features:</b>
-      <ul>
-        <li>Realtime messaging (Socket.IO) & Online presence</li>
-        <li>Voice/Video call architecture (WebRTC)</li>
-        <li>Secure Auth: JWT & Protected Routes</li>
-        <li>Theming: Dark/Light mode with signature <code>#00B14F</code></li>
-      </ul>
-      <b>Stack:</b> 
-      <code>Node.js</code> • <code>Express</code> • <code>SQLite</code> • <code>React Native (Expo)</code>
-    </td>
-  </tr>
-</table>
-</div>
+| Area | Technologies |
+| :--- | :--- |
+| **Backend Dev** | Node.js (Express), Java (Spring Boot), RESTful APIs |
+| **Real-time** | Socket.IO, WebRTC Architecture |
+| **Databases** | MongoDB (NoSQL), MySQL/SQLite (SQL), Query Optimization |
+| **DevOps & Tools** | Git, Docker (Basic), Postman, Linux Command Line |
 
 ---
 
-### 📂 Languages Distribution
+### 📂 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyTapCode05&layout=compact&theme=tokyonight&hide_border=true&title_color=00B14F&text_color=ffffff&bg_color=00000000" width="60%" />
 </p>
