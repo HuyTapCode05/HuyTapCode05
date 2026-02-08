@@ -1,61 +1,81 @@
 <div align="center">
 
-<h2>HuyTapCode05 · huyGPT</h2>
+# 🚀 HuyTapCode05 | HuyGPT
+**Backend Engineer Intern · Software Engineering Student**
 
-<sub><b>Backend Engineer · Node.js · Java</b></sub>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B14F&center=true&vCenter=true&width=435&lines=Node.js+Developer;Java+Lover;Realtime+Solutions;Clean+Code+Advocate)](https://git.io/typing-svg)
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HuyTapCode05&label=Views&color=00B14F&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/HuyTapCode05?color=00B14F&style=flat-square&label=Stars" />
+  <img src="https://img.shields.io/badge/Main_Stack-Node.js-00B14F?style=flat-square&logo=node.js&logoColor=white" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=HuyTapCode05&label=views&color=00B14F&style=flat-square" />
-<img src="https://img.shields.io/badge/backend-node.js-00B14F?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/language-java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/realtime-socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+---
 
-<br/><br/>
+### ⚡ About Me
+*"I build reliable backend services, real-time features, and clean APIs."*
 
-<!-- ONE BLOCK -->
-<table>
+</div>
+
+<table align="center">
   <tr>
-    <td align="left" width="100%">
-
-<p align="center">
-  <i>I build reliable backend services, real-time features, and clean APIs.</i>
-</p>
-
-<hr/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuyTapCode05&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyTapCode05&layout=compact&theme=github_dark&hide_title=true&hide_border=true" height="150" />
-</p>
-
-<hr/>
-
-<p align="center">
-  <b>Tech Stack</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,js,ts,mongodb,mysql,sqlite,react,git&theme=dark" />
-</p>
-
-<hr/>
-
-<p align="left">
-  <b>🚀 Featured Project: VTalk – Realtime Chat & Calling Platform</b><br/><br/>
-  Chat platform with private & group conversations, presence, and admin tools.<br/>
-  <b>Stack:</b> <code>Node.js</code> · <code>Express</code> · <code>Socket.IO</code> · <code>SQLite</code> · <code>JWT</code> · <code>React Native</code> · <code>Expo</code><br/><br/>
-  <b>Features:</b> Realtime messaging & online status · Voice/video call architecture (WebRTC) · Admin role & protected routes · Theme system (light/dark) with primary green <code>#00B14F</code>
-</p>
-
-<hr/>
-
-<p align="center">
-  <b>Contact</b><br/><br/>
-  <a href="mailto:huy632124@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://facebook.com/nghuysc1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://huydevlor.id.vn"><img src="https://img.shields.io/badge/Portfolio-00B14F?style=flat-square&logo=firefox-browser&logoColor=white" /></a>
-</p>
-
+    <td width="50%" valign="top">
+      <h4>🛠️ Tech Stack</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,js,ts,mongodb,mysql,sqlite,react,git,html,css,tailwind,postman,vscode&perline=5" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 GitHub Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=HuyTapCode05&show_icons=true&theme=tokyonight&hide_border=true&title_color=00B14F&icon_color=00B14F&text_color=ffffff&bg_color=00000000" width="100%"/>
     </td>
   </tr>
 </table>
 
+---
+
+### 🌟 Featured Project: **VTalk**
+> **Realtime Chat & Calling Platform**
+
+<div align="left">
+<table>
+  <tr>
+    <td>
+      <b>Core Features:</b>
+      <ul>
+        <li>Realtime messaging (Socket.IO) & Online presence</li>
+        <li>Voice/Video call architecture (WebRTC)</li>
+        <li>Secure Auth: JWT & Protected Routes</li>
+        <li>Theming: Dark/Light mode with signature <code>#00B14F</code></li>
+      </ul>
+      <b>Stack:</b> 
+      <code>Node.js</code> • <code>Express</code> • <code>SQLite</code> • <code>React Native (Expo)</code>
+    </td>
+  </tr>
+</table>
 </div>
+
+---
+
+### 📂 Languages Distribution
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyTapCode05&layout=compact&theme=tokyonight&hide_border=true&title_color=00B14F&text_color=ffffff&bg_color=00000000" width="60%" />
+</p>
+
+---
+
+### 🤝 Connect with me
+<p align="center">
+  <a href="mailto:huy632124@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/nghuysc1">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://huydevlor.id.vn">
+    <img src="https://img.shields.io/badge/Portfolio-00B14F?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B14F&height=100&section=footer" />
+</p>
